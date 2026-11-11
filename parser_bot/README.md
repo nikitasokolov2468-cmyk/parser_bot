@@ -1,3 +1,7 @@
+## Демонстрация работы
+
+![Демо бота](parse.gif)
+
 Markdown
 # 🤖 Async Parser Telegram Bot
 
