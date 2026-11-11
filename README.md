@@ -1,6 +1,6 @@
 ## Демонстрация работы
 
-![Демо бота](parse.gif)
+![Демо бота](parser_bot/parse.gif)
 
 # 🤖 Async Parser Telegram Bot
 
